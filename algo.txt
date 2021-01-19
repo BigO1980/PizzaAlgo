@@ -1,0 +1,11 @@
+Decide where to order pizza.
+Decide what kind of pizza to order.
+Decide on what size pizza to order.
+Decide on what toppings.
+Decide on if i want to pick it up or have it delivered.
+Call and order pizza.   
+Have it delivered.
+Pay driver.
+Give them a nice tip.
+Say grace.
+Eat pizza!
